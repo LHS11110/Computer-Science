@@ -321,6 +321,8 @@
 - [MongoDB 쿼리문]()
 - [MongoDB Replica Set]()
 - [MapReduce]()
+## 디자인 패턴
+### 의존성 주입
 ## 프로젝트의 환경 및 관리 도구
 ### VS code
 ### Git, Github

@@ -301,12 +301,14 @@
 - [ER 모델과 관계]()
 ### 관계형 데이터베이스
 - [RDBMS란?]()
-- [MySQL 구문]()
+- [MySQL 쿼리문]()
 ### 비관계형 데이터베이스
 - [NoSQL이란?]()
 - [NoSQL 모델 종류]()
 - [모델링 패턴]()
-- [MongoDB 구문]()
+- [MongoDB 쿼리문]()
+- [MongoDB Replica Set]()
+- [MapReduce]()
 ## 프로젝트의 환경 및 관리 도구
 ### VS code
 ### Git, Github

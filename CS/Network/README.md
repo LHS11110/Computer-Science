@@ -1,6 +1,6 @@
 ## 네트워크
 ### 인터넷
-- [인터넷과 네트워크란?](./InternetAndNetwork/)
+- [인터넷과 네트워크란?](./Internet/InternetAndNetwork.md)
 - [OSI 7 계층]()
 - [LAN과 WAN]()
 - [인터넷 패킷과 포워딩]()

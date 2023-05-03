@@ -2,7 +2,7 @@
 ### 프로그래밍 언어란?
 - [프로그래밍 언어에 대해서](./ProgramingLanguage/ProgramingLanguage.md)
 - [언어 목록](./ProgramingLanguage/LanguageList.md)
-- [네이밍 컨벤션]()
+- [코딩 컨벤션]()
 ### 언어의 세대별 특징
 - [1세대 언어]()
 - [2세대 언어]()

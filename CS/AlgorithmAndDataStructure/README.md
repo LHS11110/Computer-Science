@@ -1,6 +1,6 @@
 ## 알고리즘과 자료 구조
 ### 컴퓨팅 사고력
-- [컴퓨팅 사고력이란?](.\ComputationalThinking\CT.md)
+- [컴퓨팅 사고력이란?](./ComputationalThinking/CT.md)
 ### 기본적인 알고리즘
 - [재귀]()
 - [백트래킹]()
